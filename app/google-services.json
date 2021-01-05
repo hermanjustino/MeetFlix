@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "316611555952",
+    "project_id": "meetflix-39f14",
+    "storage_bucket": "meetflix-39f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316611555952:android:7415e7ba4b337f8e8ffab5",
+        "android_client_info": {
+          "package_name": "com.example.meetflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316611555952-eiefk8pu8n8ocm6k24skg848ris8bns7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meetflix",
+            "certificate_hash": "b5774c5a6f23c69f80f2d880cd650f69f6bf8104"
+          }
+        },
+        {
+          "client_id": "316611555952-9sm3lnfuguapnr681vvb8963cb3vu6j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qR1knsr7XDsJa16he4Qcs4Ea-620cd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316611555952-9sm3lnfuguapnr681vvb8963cb3vu6j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
